@@ -12,6 +12,7 @@ namespace Demo1
 {
     public partial class Form1 : Form
     {
+        //xin chao cac bạn
         public Form1()
         {
             InitializeComponent();
